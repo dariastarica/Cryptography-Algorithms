@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Daria\source\repos\RC4\Source.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Daria\source\repos\RC4\Source.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+  RC4.vcxproj -> C:\Users\Daria\source\repos\RC4\Debug\RC4.exe
