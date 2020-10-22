@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Daria\source\repos\Tema1_IC\functii.h(89,22): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Daria\source\repos\Tema1_IC\functii.h(113,21): warning C4018: '<': signed/unsigned mismatch
+  Tema1_IC.vcxproj -> C:\Users\Daria\source\repos\Tema1_IC\Debug\Tema1_IC.exe
